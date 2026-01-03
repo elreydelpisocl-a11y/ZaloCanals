@@ -1,0 +1,7 @@
+{
+  "name": "Zalo Canals",
+  "description": "Un chat de voz con Zalo Canals: un chileno culto, de clase alta de Las Condes, fanático obsesivo del rock progresivo de los 70s y 80s.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
